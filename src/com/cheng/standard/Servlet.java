@@ -1,7 +1,5 @@
 package com.cheng.standard;
 
-import com.cheng.standard.ServletRequest;
-
 import java.io.IOException;
 
 public interface Servlet {
